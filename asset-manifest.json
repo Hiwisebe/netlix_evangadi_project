@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netlix_evangadi_project/static/css/main.b4157c24.css",
+    "main.js": "/netlix_evangadi_project/static/js/main.2bda83f6.js",
+    "static/media/Netflix-Logo.jpg": "/netlix_evangadi_project/static/media/Netflix-Logo.38ac76f74a4f56128a39.jpg",
+    "index.html": "/netlix_evangadi_project/index.html",
+    "main.b4157c24.css.map": "/netlix_evangadi_project/static/css/main.b4157c24.css.map",
+    "main.2bda83f6.js.map": "/netlix_evangadi_project/static/js/main.2bda83f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4157c24.css",
+    "static/js/main.2bda83f6.js"
+  ]
+}
